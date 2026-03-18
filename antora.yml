@@ -1,4 +1,4 @@
 name: docs13
 version: ~
 nav:
-  -modules/ROOT/pages/nav.adoc
+  - modules/ROOT/pages/nav.adoc

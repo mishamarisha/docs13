@@ -1,0 +1,2 @@
+* xref:index.adoc[Главная страница]
+* xref::mod1/mod1.adoc[Модуль 1]
